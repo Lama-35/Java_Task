@@ -63,6 +63,5 @@ Emoji warnings and colorful result messages
         └── Task3.java
 README.md
 
-Author
 Made with ❤️ as part of my internship learning journey.
 Feel free to explore, run, or improve these mini projects!
